@@ -10,7 +10,7 @@ async-trait = "0.1"
 actix-web = "4"
 actix-web-prom = "0.6"
 prometheus = "0.13"
-tonic = "0.8"
+tonic = "0.10"
 serde = { version = "1", features = ["derive"] }
 serde_with = { version = "2.0", features = ["hex", "base64"] }
 bytes = "1.2"
